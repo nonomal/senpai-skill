@@ -12,6 +12,10 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
 
+
+> 💡 **推广**：本工具由 [OrcaRouter](https://www.orcarouter.ai/ref/ref_ce24e838bed3db6ce883)  赞助支持OrcaRouter 是一个强大的 AI 路由引擎，能智能调度最合适的 AI 模型处理您的任务。点击上方链接了解详情
+
+![Powered by OrcaRouter](https://img.shields.io/badge/Powered_by-OrcaRouter-2563eb)
 &nbsp;
 
 提供师兄留下来的原材料: 微信/QQ群聊、组会纪要、issue 评论、合照、白板照片、朋友圈截图，再加上你们对他的主观描述。
